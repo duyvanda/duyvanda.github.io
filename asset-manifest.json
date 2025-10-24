@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.e71e506e.chunk.css",
-    "main.js": "/static/js/main.7d70f63d.chunk.js",
-    "main.js.map": "/static/js/main.7d70f63d.chunk.js.map",
+    "main.js": "/static/js/main.460de0f3.chunk.js",
+    "main.js.map": "/static/js/main.460de0f3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a328dbd4.js",
     "runtime-main.js.map": "/static/js/runtime-main.a328dbd4.js.map",
     "static/css/2.7a31b307.chunk.css": "/static/css/2.7a31b307.chunk.css",
-    "static/js/2.d7c34db5.chunk.js": "/static/js/2.d7c34db5.chunk.js",
-    "static/js/2.d7c34db5.chunk.js.map": "/static/js/2.d7c34db5.chunk.js.map",
+    "static/js/2.ae6db8dd.chunk.js": "/static/js/2.ae6db8dd.chunk.js",
+    "static/js/2.ae6db8dd.chunk.js.map": "/static/js/2.ae6db8dd.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7a31b307.chunk.css.map": "/static/css/2.7a31b307.chunk.css.map",
     "static/css/main.e71e506e.chunk.css.map": "/static/css/main.e71e506e.chunk.css.map",
-    "static/js/2.d7c34db5.chunk.js.LICENSE.txt": "/static/js/2.d7c34db5.chunk.js.LICENSE.txt",
+    "static/js/2.ae6db8dd.chunk.js.LICENSE.txt": "/static/js/2.ae6db8dd.chunk.js.LICENSE.txt",
+    "static/media/microsoft-logo.8c25282b.webp": "/static/media/microsoft-logo.8c25282b.webp",
     "static/media/microsofticon.6b1a9283.png": "/static/media/microsofticon.6b1a9283.png",
     "static/media/powerbi.cc65c219.jpg": "/static/media/powerbi.cc65c219.jpg",
     "static/media/profile.64a173b8.jpg": "/static/media/profile.64a173b8.jpg",
@@ -21,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.a328dbd4.js",
     "static/css/2.7a31b307.chunk.css",
-    "static/js/2.d7c34db5.chunk.js",
+    "static/js/2.ae6db8dd.chunk.js",
     "static/css/main.e71e506e.chunk.css",
-    "static/js/main.7d70f63d.chunk.js"
+    "static/js/main.460de0f3.chunk.js"
   ]
 }
